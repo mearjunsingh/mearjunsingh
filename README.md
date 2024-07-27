@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Arjun Singh</h1>
 <h3 align="center">An Experienced Software Engineer</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/mearjunsingh-0077B5?logo=linkedin)](https://linkedin.com/in/mearjunsingh)
-[![Personal Blog](https://img.shields.io/badge/blog.arjunsingh.com.np-232323?logo=htmx)](https://blog.arjunsingh.com.np/)
+<div align="center">Connect with me: <a href="https://linkedin.com/in/mearjunsingh/"><img src="https://img.shields.io/badge/mearjunsingh-0077B5?logo=linkedin"></a></div>
+
+---
 
 - 🔭 I’m currently working on **Microservices**
 - 🌱 I’m currently learning **Amazon Web Services**
 - 👯 I’m looking to collaborate on **Startups and Entrepreneurship**
 
+---
 
 ### Languages and Tools
 
@@ -38,6 +40,7 @@
 ![](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=fff)
 ![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=fff)
 
+---
 
 ### Github Stats
 
