@@ -39,8 +39,6 @@
 ![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=fff)
 
 
-#43B02A
-
 ### Github Stats
 
 <div>
