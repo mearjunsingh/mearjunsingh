@@ -32,7 +32,7 @@
 ![](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 ![](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=fff)
-![](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=celery&logoColor=fff)
+![](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=fff)
 ![](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticstack&logoColor=fff)
 ![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff)
 ![](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=fff)
