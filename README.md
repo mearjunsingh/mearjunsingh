@@ -21,7 +21,6 @@
 ![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff)
 ![](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=fff)
 ![](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=fff)
-![](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=fff)
 ![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222)
