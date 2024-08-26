@@ -5,8 +5,8 @@
 
 ---
 
-- 🔭 I’m currently working on **Microservices**
-- 🌱 I’m currently learning **Amazon Web Services**
+- 🔭 I’m currently working on **Microservices and Cloud Services (AWS)**
+- 🌱 I’m currently learning **Data Analysis and Visualization**
 - 👯 I’m looking to collaborate on **Startups and Entrepreneurship**
 
 ---
